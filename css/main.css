@@ -82,7 +82,7 @@ h1 {
     padding: 1.3rem;
     width: 100%;
     height:940px;
-    background-image: url("images/florensis.png");
+    background-image: url("dist/images/florensis.png");
     background-size: 153% 154%;
     background-position: top left;
     background-repeat: no-repeat;
